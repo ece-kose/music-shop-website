@@ -1,0 +1,41 @@
+img {
+    height: 400px;
+}
+
+header, nav, section, main {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    list-style-position: inside;
+}
+
+nav ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
+nav ul li {
+    display: inline;
+    padding: 6px;
+}
+
+h1 {
+    color: #4c7e97;
+}
+
+h2 {
+    color: #af8e8e;
+}
+
+a {
+    color: #76aac4;
+}
+
+h3 {
+    color: #9297ac;
+}
